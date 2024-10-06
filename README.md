@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sasiru Gunathilaka</h1>
-<h3 align="center">A third year undergraduate specialized in Data Science.</h3>
+<h3 align="center">An undergraduate who is keen on trying new technologies and continue to grow.</h3>
 
-- 🌱 I’m currently learning **Artificial Intelligence, Machine Learning, Data Engineering**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ranketh2004&label=Profile%20views&color=0e75b6&style=flat" alt="ranketh2004" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranketh2004" alt="ranketh2004" /></a> </p>
+
+- 🌱 I’m currently learning **AI, Machine Learning ,Deep Learning, Flask, PowerBI, Big Data and Cloud Computing**
+
+- 💬 Ask me about **Machine Learning, Deep Learning and Software Development**
 
 - 📫 How to reach me **gunathilakaranketh@gmail.com**
 
