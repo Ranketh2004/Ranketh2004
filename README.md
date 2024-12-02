@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranketh2004&label=Profile%20views&color=0e75b6&style=flat" alt="ranketh2004" /> </p>
 
-- 🌱 I’m currently learning **AI, Machine Learning ,Deep Learning, Flask, PowerBI, Big Data and Cloud Computing**
+- 🌱 I’m currently learning **Java Springboot, Data Engineering**
 
 - 💬 Ask me about **Machine Learning, Deep Learning and Software Development**
 
