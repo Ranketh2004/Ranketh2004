@@ -1,6 +1,6 @@
 <p>
 <a href="www.linkedin.com/in/sasiru-gunathilaka" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://www.freepik.com/vectors/linkedin"/>
 </a>
 </p>
 
