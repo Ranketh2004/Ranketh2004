@@ -1,6 +1,6 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/sasiru-gunathilaka" target="_blank">
-    <img src="assets/linkedin image.png" alt="LinkedIn">
+    <img src="assets/linkedin image.png" alt="LinkedIn" width='50px' height='50px'>
   </a>
 </p>
 
