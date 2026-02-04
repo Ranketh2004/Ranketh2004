@@ -1,6 +1,13 @@
+# 🛞Sasiru Gunathilaka
+
+**`Disruptor (Self-Learner | Engineer)`**
+
+I am a final year undergraduate who enjoys working on Research and Development. Currently, I am finding opportunities in Data engineering, AI/ML and Agentic AI engineering to get my industry exposure.
+
+<h3 align="left">🔗 Connect with me</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/sasiru-gunathilaka" target="_blank">
-    <img src="assets/linkedin image.png" alt="LinkedIn" width='50px' height='50px'>
+    <img src="assets/linkedin image.png" alt="LinkedIn" width="50" height="50"/>
   </a>
 </p>
 
