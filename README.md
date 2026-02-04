@@ -1,7 +1,7 @@
-<p>
-<a href="www.linkedin.com/in/sasiru-gunathilaka" target="_blank">
-<img src="https://www.freepik.com/vectors/linkedin"/>
-</a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/sasiru-gunathilaka" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
 <h3 align="left">🛠️ Technologies & Tools</h3>
